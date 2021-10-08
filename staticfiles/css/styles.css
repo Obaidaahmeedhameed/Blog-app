@@ -1,0 +1,37 @@
+.asteriskField {
+    display: none;
+}
+
+.s {
+    text-decoration: none;
+    color: #fff;
+}
+
+.s:hover {
+    color: #fff;
+}
+
+.d {
+    background-color: #fff;
+}
+
+.dd {
+    background-color: #000;
+}
+
+h1 {
+    color: firebrick
+}
+
+.b {
+    background-color: #000
+}
+
+#section {
+    border-top: #fff 4px dashed;
+}
+
+#section h1,
+#section p {
+    color: #fff;
+}
